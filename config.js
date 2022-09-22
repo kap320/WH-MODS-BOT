@@ -190,7 +190,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickauth = `By KrizynOfc`
 
 global.multiplier = 38 // The higher, The harder levelup
 
