@@ -13,32 +13,42 @@ let pp = '40'
 let pv = '50'
 let ppm = '70'
 let info = `
-╭━━━━「 *SEWA* 」
-┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
-┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_
-┊⫹⫺ *Standar:* _${ss}k/grup (2 bulan)_
-┊⫹⫺ *Pro:* _${sp}k/grup (4 bulan)_                                                      
-┊⫹⫺ *Vip:* = _${sv}k/grup (12 bulan)_
-╰═┅═━––––––๑
+*––––––『 sᴇᴡᴀ 』––––––*
+┏⫹⫺ *ʜᴇᴍᴀᴛ* 
+┗$ Rm1/grup (1 minggu)
 
-╭━━━━「 *PREMIUM* 」
-┊⫹⫺ *Hemat:* _${ph}k (1 minggu)_
-┊⫹⫺ *Normal:* _${pn}k (1 bulan)_
-┊⫹⫺ *Pro:* _${pp}k (4 bulan)_
-┊⫹⫺ *Vip:* _${pv}k (8 bulan)_                                               
-┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
-╰═┅═━––––––๑
+┏⫹⫺ *ɴᴏʀᴍᴀʟ* 
+┗$ Rm5/grup (1 bulan)
 
-*⫹⫺ PAYMENT:*
-• *Pulsa Telkomsel:* [${ppulsa}]
-• *Dana:* [${pdana}]
-• *Gopay:* [${pgopay}]
-• *Ovo:* [${povo}]
-• *Link Aja:* [${plinkaja}]
+┏⫹⫺ *sᴛᴀɴᴅᴀʀ* 
+┗$ Rm15/grup (2 bulan)
 
-–––––– *🐾 Kebijakan* ––––––
+┏⫹⫺ *ᴘʀᴏ* 
+┗$ Rm20/grup (3 bulan)
+
+──···────────────────···──
+
+*––––––『 ᴘʀᴇᴍɪᴜᴍ 』––––––*
+┏⫹⫺ *ʜᴇᴍᴀᴛ* 
+┗$ Rm5(1 minggu)
+
+┏⫹⫺ *ɴᴏʀᴍᴀʟ* 
+┗$ Rm10 (1 bulan)
+
+┏⫹⫺ *ɢᴏᴏᴅ* 
+┗$ Rm15 (3 bulan)
+
+┏⫹⫺ *ᴘʀᴏ* 
+┗$ Rm20 (5 bulan)                                            
+
+
+*✃ ᴘᴀʏᴍᴇɴᴛ*
+• *Pulsa Maxis:* [601127833767]
+• *eWallet:* [601151905021]
+
+–––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
 🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja
+💬: Mau tawar menawar? boleh, silahkan chat owner aja.. max tawar Rm5
 
 🗣️: Scam ga nih kak?
 💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
