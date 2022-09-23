@@ -1,15 +1,13 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
-┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
-│ • *Pulsa Mexis:* [601127833767]
-│ • *eWallet:* [601151905021]
-❏────
+📍 *BNK MAYBANK*
+No: 008074679622
 
-┌─「 Donasi • Non Pulsa 」
-│ • *Dana:* [${global.pdana}]
-│ • *Ovo:* [${global.povo}]
-❏────
+📍 *Touch nGO* 
+No: 1151905021
+
+📍 *SHOPE PAY*
+ No: +601151905021
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '✨ Saweria', url: psaweria}},
