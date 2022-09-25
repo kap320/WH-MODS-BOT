@@ -9,8 +9,8 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/Wahidhidayatulla"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
-  <a href="httts://instagram.com/_ctzhid"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://github.com/kap320"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
+  <a href="httts://instagram.com/rizaedtz01"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
   <a href="https://www.youtube.com/channel/rizaedtz01"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
