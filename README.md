@@ -32,15 +32,14 @@
 
 ## Support termux
 ------------------
-Command
-pkg update && pkg upgrade
-pkg install git nodejs imagemagick MC nano ffmpeg
-git clone github.com/kap320/WH-MODS-BOT
-cd WH-MODS-BOT
+• pkg update && pkg upgrade
+• pkg install git nodejs imagemagick MC nano ffmpeg
+• git clone github.com/kap320/WH-MODS-BOT
+• cd WH-MODS-BOT
 MC ganti session lu
-npm i -g npm@8.19.2
-yarn
-node .
+• npm i -g npm@8.19.2
+• yarn
+• node .
 
 # Heroku Buildpack
 
