@@ -30,6 +30,18 @@
 - [x] Menu  <details><summary>Screenshot</summary><img src="https://telegra.ph/file/dc3565c53a09154ef745e.jpg"></details>
 ------------------
 
+## Support termux
+------------------
+Command
+pkg update && pkg upgrade
+pkg install git nodejs imagemagick MC nano ffmpeg
+git clone github.com/kap320/WH-MODS-BOT
+cd WH-MODS-BOT
+MC ganti session lu
+npm i -g npm@8.19.2
+yarn
+node .
+
 # Heroku Buildpack
 
 | BuildPack | LINK |
