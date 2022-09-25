@@ -30,11 +30,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Cadbury_mly'
-global.sgh = 'github.com/krizynofc' //github
-global.sgc = 'https://chat.whatsapp.com/GU6aanJJuz3ARqH1LeFY9W' //group whatsapp
+global.sig = 'https://instagram.com/rizaedtz01' // Instagram mu sayang
+global.sgh = 'github.com/kap320' //github
+global.sgc = 'grouplu anj🗿🙏' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/c/hokenbeusz' // my youtube channel
+global.snh = 'https://www.youtube.com/c/rizaedtz01' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '08XXXXXXXXXX' //dana
@@ -43,11 +43,11 @@ global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/kricom'
+global.psaweria = 'https://saweria.com/nakanomiku'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601123065180'
-global.nomorown = '601127833767'
+global.nomorbot = '62895360682968'
+global.nomorown = '6289502191943'
 global.namebot = 'WH-MODS-BOT-V1'
 global.nameown = 'Cadbury Ensem'
 
@@ -190,7 +190,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By KrizynOfc`
+global.stickauth = `By Rizaedtz01`
 
 global.multiplier = 38 // The higher, The harder levelup
 
